@@ -19,17 +19,9 @@ Buy it from : https://shop.sb-components.co.uk/collections/breakouts/products/ai
 
 
 
-### Enable I2C and Serial Interface
+### Enable Serial Interface
 
- Open a terminal and run the following commands to enable I2C and Serial：
-
-
-* ``` sudo raspi-config ```
-
-Choose Interfacing Options -> I2C ->yes 
-
-<img src="Images/en_i2c_all.png" />
-
+ Open a terminal and run the following commands to enable Serial：
 
 * ``` sudo raspi-config ```
 
